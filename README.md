@@ -58,15 +58,13 @@ This page provides an in-depth analysis of customer demographics.
 
 #### Key Performance Indicators (KPIs):
 
-- **Total Customers**: 10,110 customers.
-- **Male Customers**: 4,228.
-- **Female Customers**: 5,880.
+- **Total Revenue**: $55 million.
+- **Total Interest**: $8 million.
+- **Total Income**: $576 million.
 - **Average Customer Satisfaction Score**: 3.19.
 
 #### Additional Visualizations:
 
-- **Car Ownership**: 6,044 customers do not own a car, and 4,064 own one.
-- **Marital Status**: 5,128 married, 4,236 single, 744 unknown marital status.
 - **Customers by State Code and Gender**: Depicts the distribution of customers across states like California, Texas, New York, Florida, and New Jersey.
 - **Customers by Job Type and Gender**: Shows the number of customers by job type.
 - **Customers by Age Group**: Highest concentration in the 40-50 age group.
@@ -81,7 +79,7 @@ This page focuses on transaction-related KPIs and insights.
 - **Total Revenue**: $55 million.
 - **Total Transactions**: 656,000.
 - **Transaction Amount**: $45 million.
-- **Interest Earned**: $7.8 million.
+- **Interest Earned**: $8 million.
 
 #### Additional Visualizations:
 
@@ -93,7 +91,6 @@ This page focuses on transaction-related KPIs and insights.
 - **Revenue by Marital Status**: Married customers contributed the highest revenue ($28 million).
 - **Revenue by Expenditure Type**: Bills generated the highest revenue ($14 million).
 - **Revenue by Customer Job**: Business owners and white-collar workers generate the highest revenue.
-- **Revenue by State Code**: Texas ($12.8 million) and New York ($12.7 million) are the highest revenue-generating states.
 
 ## Target Customer Segments
 
